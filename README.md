@@ -1,3 +1,21 @@
+### Message-flow 🚀<br/>
+
+**Message-flow** is a web app that lets you add messages as nodes to create a flow. It simplifies the process of building message sequences for any purpose. A **chatbot** flow is built by connecting multiple messages together to decide the order of execution. With this app, you can easily visualize and organize your messages in a clear, structured way, making your communication efficient and well-organized.
+
+#### Inspiration 💡
+
+Imagine effortlessly designing message sequences by connecting nodes. With Message-flow, create and visualize chatbot flows and communications easily. This web app turns complex scripts into clear, organized, and efficient message flows. Embrace this intuitive tool and revolutionize communication design, making your ideas structured and brilliant. Let's transform messaging together!
+
+#### How Message-flow Works 🛠️
+- **Visualize Message**: Start by visualizing each message as a node on the canvas.
+- **Visualize Message**: Start by seeing your messages as individual nodes.
+- **Drag Message**: Drag and drop messages to arrange them.
+- **Connect Nodes**: Link nodes to define the order of execution.
+- **Update Node Message**: Edit the content of each node as needed.
+- **Save Changes**: Save your changes to ensure everything is up-to-date.
+- **Visualize Flow**: See the entire message sequence in a clear, organized layout.
+- **Adjust Easily**: Modify and rearrange nodes to perfect the flow.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
