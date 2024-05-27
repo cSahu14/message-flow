@@ -1,6 +1,8 @@
 ### Message-flow 🚀<br/>
 
-**Message-flow** is a web app that lets you add messages as nodes to create a flow. It simplifies the process of building message sequences for any purpose. A **chatbot** flow is built by connecting multiple messages together to decide the order of execution. With this app, you can easily visualize and organize your messages in a clear, structured way, making your communication efficient and well-organized.
+**Message-flow** is a web app that lets you add messages as nodes to create a flow. It simplifies the process of building message sequences for any purpose. A **chatbot** flow is built by connecting multiple messages together to decide the order of execution. With this app, you can easily visualize and organize your messages in a clear, structured way, making your communication efficient and well-organized.<br/>
+
+<img src="./public/appTemplate.png" height="400px" style="border-radius:50px"/><br/>
 
 #### Inspiration 💡
 
